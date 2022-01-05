@@ -16,6 +16,6 @@
       <img align="center" alt=html5 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <div><br/>
 
-cursando ciências da computação na UEPB e técnico em infórmatica no IFPB. Amo ler e aprender coisas novas todos os dias de todos os temas possiveis e impossiveis.
+
 
  
