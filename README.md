@@ -1,7 +1,7 @@
 
 ### olá! Eu sou o Júlio César ✌️
 
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/julius_caesar.mkv/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julius_caesar.mkv/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julio-cesar-113131205/)
 
 ![juliocesardev GitHub stats](https://github-readme-stats.vercel.app/api?username=juliocesardev&show_icons=true&theme=tokyonight)
@@ -16,6 +16,6 @@
       <img align="center" alt=html5 src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <div><br/>
 
-
+cursando ciências da computação na UEPB e técnico em infórmatica no IFPB. Amo ler e aprender coisas novas todos os dias de todos os temas possiveis e impossiveis.
 
  
